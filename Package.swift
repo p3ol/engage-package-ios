@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "EngageIOS",
             url: "https://github.com/p3ol/engage-package-ios/releases/latest/download/EngageIOS.xcframework.zip",
-            checksum: "163fbc33cd83116748c71e1ae91f6bfc853cb886889ded7541cfd36131048239"
+            checksum: "f8371d6e22b813321c67a6b33b26f6a65258c178e0ade7f75595c71b762687c7"
         ),
     ]
 )
